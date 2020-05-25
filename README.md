@@ -13,3 +13,7 @@ Conservatorio Piccinni di Bari.
    * [Creep Multitracks](https://www.dropbox.com/s/c2jq8vs6gqvn2ee/Creep.mogg?dl=0)
    * [Antifona, estratto](https://www.dropbox.com/s/ckev5c651hx5kr8/estratto.flac?dl=0)
    * [Documentario Soundfield](https://www.youtube.com/watch?v=X23hZNoSkUs)
+
+ - Esercitazioni
+   * [Antifona A](https://www.dropbox.com/s/w00rx24hkdfqibs/Antifona-A.zip?dl=0)
+   * [Antifona B](https://www.dropbox.com/s/8temnngqieth9h8/Antifona-B.zip?dl=0)
