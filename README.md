@@ -17,3 +17,6 @@ Conservatorio Piccinni di Bari.
  - Esercitazioni
    * [Antifona A](https://www.dropbox.com/s/w00rx24hkdfqibs/Antifona-A.zip?dl=0)
    * [Antifona B](https://www.dropbox.com/s/8temnngqieth9h8/Antifona-B.zip?dl=0)
+
+- Software
+  * [Surround Zone](https://en.rode.com/soundfieldplugin)
