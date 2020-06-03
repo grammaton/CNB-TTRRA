@@ -25,3 +25,4 @@ Conservatorio Piccinni di Bari.
   1. Radiohead - Creep
     * Organizzazione progetto di registrazione multitraccia
     * Stesura relazione operativa (stereofonia, descrizione scelte particolari)
+  2. 
