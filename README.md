@@ -20,3 +20,8 @@ Conservatorio Piccinni di Bari.
 
 - Software
   * [Surround Zone](https://en.rode.com/soundfieldplugin)
+
+- Materiale d'Esame:
+  1. Radiohead - Creep
+    * Organizzazione progetto di registrazione multitraccia
+    * Stesura relazione operativa (stereofonia, descrizione scelte particolari)
